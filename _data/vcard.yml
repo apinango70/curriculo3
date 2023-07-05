@@ -1,0 +1,41 @@
+# Vcard configuration file
+##
+### param "bgimage" - Background Image or Background Photo
+### param "photo" - Small circle photo
+### param "name" - Your Name
+### param "typed" - Typed text under Name
+### param "social" - Social Links, icon class name you can find here https://fontawesome.com/icons?d=gallery&s=brands&m=free
+### param "buttons" - Buttons, icon class you can find here https://ionicons.com/v4/
+
+main:
+  bgimage: "assets/img/fondo1.jpg"
+  photo: "assets/img/alejandro.jpg"
+  name: "Alejandro Piñango"
+  typed:
+    - text: "Diseñador WEB"
+    - text: "Programador"
+    - text: "Freelancer"
+    - text: "Full Stack Developer"
+  social:
+    # - title: "Dribbble"
+    #   icon: "fab fa-dribbble"
+    #   url: "https://dribbble.com/"
+    # - title: "Twitter"
+    #   icon: "fab fa-twitter"
+    #   url: "https://twitter.com/"
+    - title: "GitHub"
+      icon: "fab fa-github"
+      url: "hhttps://github.com/apinango70/"
+    # - title: "Spotify"
+    #   icon: "fab fa-spotify"
+    #   url: "https://www.spotify.com/"
+    # - title: "Stackoverflow"
+    #   icon: "fab fa-stack-overflow"
+    #   url: "https://stackoverflow.com/"
+  buttons:
+    - title: "Descargar CV"
+      icon: ""
+      url: "https://drive.google.com/"
+    - title: "Contáctame"
+      icon: ""
+      url: "mailto:alejandropinango@gmail.com"
