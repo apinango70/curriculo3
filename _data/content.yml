@@ -38,7 +38,7 @@ services:
       text: "Creación de páginas Web modernas y adaptables en HTML, CSS y Javascript y aplicaciones Web en Ruby on Rails."
       h_line: 1
 
-    - icon: "appstore"
+    - icon: "html5"
       name: "Diseño de recursos"
       text: "Creación de módulos de aprendizaje, guiones instruccionales y Materiales instruccionales."
       h_line: 1
@@ -239,6 +239,9 @@ skills:
         - label: "Photoshop"
           value: "75" #0-100 progress in %
 
+        - label: "Illustrator"
+          value: "60" #0-100 progress in %
+        
         - label: "Moodle"
           value: "75" #0-100 progress in %
 
