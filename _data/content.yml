@@ -48,7 +48,7 @@ services:
       text: "Instalación, configuración y adapatación a imagen corporativa de la plataforma educativa Moodle."
       h_line: 1
 
-    - icon: "fa-database"
+    - icon: "analytics"
       name: "Bases de datos"
       text: "Diseño y administración de base de datos PostgreSQL y SQL Server."
       h_line: 1
@@ -277,27 +277,27 @@ skills:
         - label: "HTML / CSS / Javascript"
           value: "95" #0-100 progress in %
 
-    # - type: "list" #skills progress type - default, dotted, circles, list
-    #   title: "Experiencia en:"
-    #   icon: "android-list"
-    #   items:
-    #     - label: "WHM/Cpanel Web hosting"
-    #       value: "" #0-100 progress in %
+     - type: "list" #skills progress type - default, dotted, circles, list
+       title: "Experiencia en:"
+       icon: "android-list"
+       items:
+         - label: "WHM/Cpanel Web hosting"
+           value: "60" #0-100 progress in %
 
-    #     - label: "Visual Studio Code"
-    #       value: "" #0-100 progress in %
+         - label: "Visual Studio Code"
+           value: "80" #0-100 progress in %
 
-    #     - label: "Adobe Captivate"
-    #       value: "" #0-100 progress in %
+         - label: "Adobe Captivate"
+           value: "65" #0-100 progress in %
 
-    #     - label: "Adobe audition, "
-    #       value: "" #0-100 progress in %
+         - label: "Adobe audition, "
+           value: "90" #0-100 progress in %
 
-    #     - label: "Modern and mobile-ready"
-    #       value: "" #0-100 progress in %
+         - label: "Photoshop"
+           value: "75" #0-100 progress in %
 
-    #     - label: "Advertising services include"
-    #       value: "" #0-100 progress in %
+         - label: "Illustrator"
+           value: "50" #0-100 progress in %
 
     #     - label: "Graphics and animations"
     #       value: "" #0-100 progress in %
