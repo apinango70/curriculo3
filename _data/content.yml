@@ -41,17 +41,17 @@ services:
     - icon: "appstore"
       name: "Diseño de recursos"
       text: "Creación de módulos de aprendizaje, guiones instruccionales y Materiales instruccionales."
-      h_line: 0
+      h_line: 1
 
     - icon: "contacts"
       name: "Moodle admin"
       text: "Instalación, configuración y adapatación a imagen corporativa de la plataforma educativa Moodle."
-      h_line: 0
+      h_line: 1
 
     - icon: "fa-database"
       name: "Bases de datos"
       text: "Diseño y administración de base de datos PostgreSQL y SQL Server."
-      h_line: 0
+      h_line: 1
 
 ### Pricing [ pricing ]
 # pricing:
